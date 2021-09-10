@@ -12,7 +12,7 @@ import { EditPostForm } from './features/posts/EditorPostForm'
 import { PostsList } from './features/posts/PostsList'
 import { SinglePostPage } from './features/posts/SinglePostPage'
 
-// DO TU: https://redux.js.org/tutorials/essentials/part-3-data-flow#main-posts-feed
+// DO TU: https://redux.js.org/tutorials/essentials/part-5-async-logic#introduction
 
 function App() {
   return (
